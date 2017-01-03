@@ -14,7 +14,7 @@
     "packager",
     "rnpm"
   ],
-  "version": "0.5.20",
+  "version": "0.5.21",
   "private": false,
   "dependencies": {
     "blueimp-md5": "^2.5.0",
@@ -52,7 +52,6 @@
     "react-native": ">=0.38.0",
     "react": ">=15.4.0"
   },
-  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dikarel/NativeBase.git"
