@@ -40,6 +40,9 @@
     "eslint-plugin-react": "^6.2.0",
     "eslint-plugin-react-native": "^2.0.0"
   },
+  "files": [
+    "dist"
+  ],
   "homepage": "https://github.com/dikarel/NativeBase#readme",
   "main": "dist/index.js",
   "maintainers": [
