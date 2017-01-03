@@ -1,4 +1,4 @@
-# NativeBase v0.5.20
+# NativeBase v0.5.20 (transpiled)
 Essential cross-platform UI components for React Native
 
 
