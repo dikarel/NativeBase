@@ -1,6 +1,6 @@
 {
-  "name": "native-base",
-  "description": "Essential cross-platform UI components for React Native",
+  "name": "native-base-transpiled",
+  "description": "NativeBase ES2015 transpilation proof of concept",
   "keywords": [
     "android",
     "ios",
@@ -40,29 +40,14 @@
     "eslint-plugin-react": "^6.2.0",
     "eslint-plugin-react-native": "^2.0.0"
   },
-  "directories": {},
-  "dist": {
-    "shasum": "fb3677a4f6e732b4fe60e569e04222399011661f",
-    "tarball": "https://registry.npmjs.org/native-base/-/native-base-0.5.19.tgz"
-  },
-  "gitHead": "a8504267642c8bafe763ce292bcf0e97737fd0e4",
-  "homepage": "https://github.com/GeekyAnts/NativeBase#readme",
+  "homepage": "https://github.com/dikarel/NativeBase#readme",
   "main": "dist/index.js",
   "maintainers": [
     {
-      "name": "himanshu-sahusoft",
-      "email": "himanshu@sahusoft.com"
-    },
-    {
-      "name": "sankhadeeproy007",
-      "email": "sankhadeep@sahusoft.com"
-    },
-    {
-      "name": "shivrajk",
-      "email": "shivraj@sahusoft.com"
+      "name": "Darius I. Karel",
+      "email": "me@dikarel.com"
     }
   ],
-  "optionalDependencies": {},
   "peerDependencies": {
     "react-native": ">=0.38.0",
     "react": ">=15.4.0"
@@ -70,7 +55,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GeekyAnts/NativeBase.git"
+    "url": "git+https://github.com/dikarel/NativeBase.git"
   },
   "rnpm": {
     "assets": [
