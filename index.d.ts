@@ -1,4 +1,4 @@
-declare module 'native-base' {
+declare module 'native-base-transpiled' {
     namespace NativeBase {
         /**
          * see Widget Text.js
