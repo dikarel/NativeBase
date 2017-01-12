@@ -14,7 +14,7 @@
     "packager",
     "rnpm"
   ],
-  "version": "0.5.24",
+  "version": "0.5.25",
   "private": false,
   "dependencies": {
     "blueimp-md5": "^2.5.0",
